@@ -64,25 +64,25 @@
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/loooperman/stylegan/wav/audio_1006.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan/fig/spectrogram_1006.png">
+        <audio src="demo_page/loooperman/stylegan_rerun/wav/audio_4.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan_rerun/fig/spectrogram_4.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan/wav/audio_1007.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2/fig/000015.png">
+        <audio src="demo_page/loooperman/stylegan_rerun/wav/audio_22.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan_rerun/fig/spectrogram_22.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan/wav/audio_1008.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan/fig/spectrogram_1008.png">
+        <audio src="demo_page/loooperman/stylegan_rerun/wav/audio_54.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan_rerun/fig/spectrogram_54.png">
     </div>
 </div>
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/loooperman/stylegan/wav/audio_1.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan/fig/spectrogram_1.png">
+        <audio src="demo_page/loooperman/stylegan_rerun/wav/audio_116.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan_rerun/fig/spectrogram_116.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan/wav/audio_2.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan/fig/spectrogram_2.png">
+        <audio src="demo_page/loooperman/stylegan_rerun/wav/audio_155.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan_rerun/fig/spectrogram_155.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan/wav/audio_3.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan/fig/spectrogram_3.png">
+        <audio src="demo_page/loooperman/stylegan_rerun/wav/audio_159.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan_rerun/fig/spectrogram_159.png">
     </div>
 </div>
 
@@ -111,6 +111,90 @@
     </div>
     <div>
         <audio src="demo_page/loooperman/stylegan2/wav/55.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2/fig/000055.png">
+    </div>
+</div>
+
+<hr>
+
+* StyleGAN2 - weight demodulation 
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/loooperman/C_sgarc/wav/5.wav" controls="" preload=""></audio><img src="demo_page/loooperman/C_sgarc/fig/000005.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/C_sgarc/wav/394.wav" controls="" preload=""></audio><img src="demo_page/loooperman/C_sgarc/fig/000394.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/C_sgarc/wav/497.wav" controls="" preload=""></audio><img src="demo_page/loooperman/C_sgarc/fig/000497.png">
+    </div>
+</div>
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/loooperman/C_sgarc/wav/505.wav" controls="" preload=""></audio><img src="demo_page/loooperman/C_sgarc/fig/000505.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/C_sgarc/wav/676.wav" controls="" preload=""></audio><img src="demo_page/loooperman/C_sgarc/fig/000676.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/C_sgarc/wav/789.wav" controls="" preload=""></audio><img src="demo_page/loooperman/C_sgarc/fig/000789.png">
+    </div>
+</div>
+
+<hr>
+
+* StyleGAN2 - path length regularization
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/loooperman/B_nopath/wav/3.wav" controls="" preload=""></audio><img src="demo_page/loooperman/B_nopath/fig/000003.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/B_nopath/wav/272.wav" controls="" preload=""></audio><img src="demo_page/loooperman/B_nopath/fig/000272.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/B_nopath/wav/497.wav" controls="" preload=""></audio><img src="demo_page/loooperman/B_nopath/fig/000497.png">
+    </div>
+</div>
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/loooperman/B_nopath/wav/1004.wav" controls="" preload=""></audio><img src="demo_page/loooperman/B_nopath/fig/001004.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/B_nopath/wav/1274.wav" controls="" preload=""></audio><img src="demo_page/loooperman/B_nopath/fig/001274.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/B_nopath/wav/1498.wav" controls="" preload=""></audio><img src="demo_page/loooperman/B_nopath/fig/001498.png">
+    </div>
+</div>
+
+<hr>
+
+* StyleGAN2 - no progressive growing
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/loooperman/A_pg/wav/1.wav" controls="" preload=""></audio><img src="demo_page/loooperman/A_pg/fig/000001_4.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/A_pg/wav/502.wav" controls="" preload=""></audio><img src="demo_page/loooperman/A_pg/fig/000502_4.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/A_pg/wav/1004.wav" controls="" preload=""></audio><img src="demo_page/loooperman/A_pg/fig/001004_4.png">
+    </div>
+</div>
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/loooperman/A_pg/wav/1005.wav" controls="" preload=""></audio><img src="demo_page/loooperman/A_pg/fig/001005_4.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/A_pg/wav/1505.wav" controls="" preload=""></audio><img src="demo_page/loooperman/A_pg/fig/001505_4.png">
+    </div>
+    <div>
+        <audio src="demo_page/loooperman/A_pg/wav/1995.wav" controls="" preload=""></audio><img src="demo_page/loooperman/A_pg/fig/001995_4.png">
     </div>
 </div>
 
