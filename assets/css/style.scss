@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+title {
+    font-size: 10px;
+}
+
+audio {
+    width: 220px;
+    height: 60px;
+}
+
+
+img {
+    width: 220px;
+    height: 60px;
+}
+
+img.sample {
+    width: 880px;
+    height: 200px;
+}
+
+#wrap {
+    display: flex;
+}
+
+
