@@ -32,7 +32,7 @@ still training ......
         <audio src="demo_page/loooperman/stylegan2_synth/wav/1493.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/001493.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_synth/wav/1498.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/001498.png">
+        <audio src="demo_page/loooperman/stylegan2_synth/wav/1498.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/001499.png">
     </div>
 </div>
 
