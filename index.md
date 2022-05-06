@@ -14,88 +14,110 @@ still training ......
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/loooperman/stylegan2_synth/wav/0.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/000000.png">
+        <audio src="demo_page/ProjectedGAN/B/0.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/B/000000.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_synth/wav/381.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/000381.png">
+        <audio src="demo_page/ProjectedGAN/B/6.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/B/000006.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_synth/wav/496.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/000496.png">
+        <audio src="demo_page/ProjectedGAN/B/249.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/B/000249.png">
     </div>
 </div>
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/loooperman/stylegan2_synth/wav/995.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/000995.png">
+        <audio src="demo_page/ProjectedGAN/B/1353.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/B/001353.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_synth/wav/1493.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/001493.png">
+        <audio src="demo_page/ProjectedGAN/B/1002.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/B/001002.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_synth/wav/1498.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_synth/fig/001499.png">
+        <audio src="demo_page/ProjectedGAN/B/460.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/B/000460.png">
     </div>
 </div>
 
 <hr>
 
-* StyleGAN2 - weight demodulation 
+* + projecet GAN 
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/loooperman/stylegan2_A_synth/wav/1.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_A_synth/fig/000001.png">
+        <audio src="demo_page/ProjectedGAN/C/1.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000001 (1).png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_A_synth/wav/52.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_A_synth/fig/000052.png">
+        <audio src="demo_page/ProjectedGAN/C/8.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000008.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_A_synth/wav/397.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_A_synth/fig/000397.png">
+        <audio src="demo_page/ProjectedGAN/C/126.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000126.png">
     </div>
 </div>
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/loooperman/stylegan2_A_synth/wav/497.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_A_synth/fig/000497.png">
+        <audio src="demo_page/ProjectedGAN/C/253.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000253.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_A_synth/wav/901.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_A_synth/fig/000901.png">
+        <audio src="demo_page/ProjectedGAN/C/454.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000454.png">
     </div>
     <div>
-        <audio src="demo_page/loooperman/stylegan2_A_synth/wav/1503.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_A_synth/fig/001503.png">
-    </div>
-</div>
-
-<hr>
-
-* StyleGAN2 - path length regularization
-
-<div id="wrap">
-    <div>
-        <audio src="demo_page/loooperman/stylegan2_B_synth/wav/5.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_B_synth/fig/000005.png">
-    </div>
-    <div>
-        <audio src="demo_page/loooperman/stylegan2_B_synth/wav/461.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_B_synth/fig/000461.png">
-    </div>
-    <div>
-        <audio src="demo_page/loooperman/stylegan2_B_synth/wav/501.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_B_synth/fig/000501.png">
-    </div>
-</div>
-
-<div id="wrap">
-    <div>
-        <audio src="demo_page/loooperman/stylegan2_B_synth/wav/651.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_B_synth/fig/000651.png">
-    </div>
-    <div>
-        <audio src="demo_page/loooperman/stylegan2_B_synth/wav/997.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_B_synth/fig/000997.png">
-    </div>
-    <div>
-        <audio src="demo_page/loooperman/stylegan2_B_synth/wav/1283.wav" controls="" preload=""></audio><img src="demo_page/loooperman/stylegan2_B_synth/fig/001283.png">
+        <audio src="demo_page/ProjectedGAN/C/1498.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/001498.png">
     </div>
 </div>
 
 <hr>
 
-* StyleGAN2 - no progressive growing
+* + vggScnn
 
-running.......
+<div id="wrap">
+    <div>
+        <audio src="demo_page/ProjectedGAN/D/1.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000001 (1).png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/D/2.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000002.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/D/245.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000245.png">
+    </div>
+</div>
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/ProjectedGAN/D/5324.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/005324.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/D/1999.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/001999.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/D/4504.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/004504.png">
+    </div>
+</div>
+
+<hr>
+
+* + slide window
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/ProjectedGAN/E/0.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/E/000000.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/E/77.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/E/000077.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/E/158.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/E/000158.png">
+    </div>
+</div>
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/ProjectedGAN/E/346.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/E/000346.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/E/474.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/E/000474.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/E/999.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/E/000999.png">
+    </div>
+</div>
 
 <hr>
