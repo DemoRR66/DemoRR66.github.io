@@ -4,11 +4,6 @@
 #### Models trained on the Looperman dataset
 
 
-* StyleGAN
-
-still training ......
-
-<hr>
 
 * StyleGAN2
 
@@ -38,7 +33,7 @@ still training ......
 
 <hr>
 
-* + projecet GAN 
+* \+ projecet GAN 
 
 <div id="wrap">
     <div>
@@ -66,7 +61,7 @@ still training ......
 
 <hr>
 
-* + vggScnn
+* \+ vggScnn
 
 <div id="wrap">
     <div>
@@ -94,7 +89,7 @@ still training ......
 
 <hr>
 
-* + slide window
+* \+ slide window
 
 <div id="wrap">
     <div>
