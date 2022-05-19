@@ -147,6 +147,34 @@
 
 #### Synth Loops
 
+* Real
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/ProjectedGAN/Synth/Real/0.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Real/000000.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/Synth/Real/4.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Real/000004.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/Synth/Real/252.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Real/000252.png">
+    </div>
+</div>
+
+<div id="wrap">
+    <div>
+        <audio src="demo_page/ProjectedGAN/Synth/Real/498.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Real/000498.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/Synth/Real/483.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Real/000483.png">
+    </div>
+    <div>
+        <audio src="demo_page/ProjectedGAN/Synth/Real/342.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Real/000342.png">
+    </div>
+</div>
+
+<hr>
+
 * StyleGAN2
 
 <div id="wrap">
@@ -179,25 +207,25 @@
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/ProjectedGAN/C/1.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000001 (1).png">
+        <audio src="demo_page/ProjectedGAN/Synth/VGG/3.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/000003.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/C/8.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000008.png">
+        <audio src="demo_page/ProjectedGAN/Synth/VGG/177.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/000177.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/C/126.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000126.png">
+        <audio src="demo_page/ProjectedGAN/Synth/VGG/342.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/000342.png">
     </div>
 </div>
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/ProjectedGAN/C/253.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000253.png">
+        <audio src="demo_page/ProjectedGAN/Synth/VGG/474.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/000474.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/C/454.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/000454.png">
+        <audio src="demo_page/ProjectedGAN/Synth/VGG/1004.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/001004.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/C/1498.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/C/001498.png">
+        <audio src="demo_page/ProjectedGAN/Synth/VGG/1219.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/001219.png">
     </div>
 </div>
 
@@ -207,25 +235,25 @@
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/ProjectedGAN/D/1.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000001 (1).png">
+        <audio src="demo_page/ProjectedGAN/Synth/SCNN/0.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/SCNN/000000.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/D/2.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000002.png">
+        <audio src="demo_page/ProjectedGAN/Synth/SCNN/1.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/SCNN/000001.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/D/245.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000245.png">
+        <audio src="demo_page/ProjectedGAN/Synth/SCNN/2.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/SCNN/000002.png">
     </div>
 </div>
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/ProjectedGAN/D/5324.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/005324.png">
+        <audio src="demo_page/ProjectedGAN/Synth/SCNN/3.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/SCNN/000003.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/D/1999.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/001999.png">
+        <audio src="demo_page/ProjectedGAN/Synth/SCNN/4.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/SCNN/000004.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/D/4504.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/004504.png">
+        <audio src="demo_page/ProjectedGAN/Synth/SCNN/5.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/SCNN/000005.png">
     </div>
 </div>
 
@@ -235,25 +263,25 @@
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/ProjectedGAN/D/1.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000001 (1).png">
+        <audio src="demo_page/ProjectedGAN/Synth/Fusion/254.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/000254.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/D/2.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000002.png">
+        <audio src="demo_page/ProjectedGAN/Synth/Fusion/415.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/000415.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/D/245.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/000245.png">
+        <audio src="demo_page/ProjectedGAN/Synth/Fusion/498.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/000498.png">
     </div>
 </div>
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/ProjectedGAN/D/5324.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/005324.png">
+        <audio src="demo_page/ProjectedGAN/Synth/Fusion/2002.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/002002.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/D/1999.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/001999.png">
+        <audio src="demo_page/ProjectedGAN/Synth/Fusion/2072.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/002072.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/D/4504.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/D/004504.png">
+        <audio src="demo_page/ProjectedGAN/Synth/Fusion/3384.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/003384.png">
     </div>
 </div>
 
