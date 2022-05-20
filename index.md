@@ -135,10 +135,10 @@ We show the result for the models trained on the large-scale looperman dataset.
         <audio src="demo_page/ProjectedGAN/Drum/Fusion/1006.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Drum/Fusion/001006.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/Drum/Fusion/1597.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Drum/Fusion/001597.png">
+        <audio src="demo_page/ProjectedGAN/Drum/Fusion/3827.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Drum/Fusion/003827.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/Drum/Fusion/3997.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Drum/Fusion/003997.png">
+        <audio src="demo_page/ProjectedGAN/Drum/Fusion/3539.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Drum/Fusion/003539.png">
     </div>
 </div>
 
@@ -218,13 +218,13 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <div id="wrap">
     <div>
-        <audio src="demo_page/ProjectedGAN/Synth/VGG/3.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/000003.png">
+        <audio src="demo_page/ProjectedGAN/Synth/VGG/1005.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/001005.png">
     </div>
     <div>
         <audio src="demo_page/ProjectedGAN/Synth/VGG/177.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/000177.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/Synth/VGG/342.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/000342.png">
+        <audio src="demo_page/ProjectedGAN/Synth/VGG/1123.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/VGG/001123.png">
     </div>
 </div>
 
@@ -277,7 +277,7 @@ We show the result for the models trained on the large-scale looperman dataset.
         <audio src="demo_page/ProjectedGAN/Synth/Fusion/254.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/000254.png">
     </div>
     <div>
-        <audio src="demo_page/ProjectedGAN/Synth/Fusion/415.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/000415.png">
+        <audio src="demo_page/ProjectedGAN/Synth/Fusion/8001.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/008001.png">
     </div>
     <div>
         <audio src="demo_page/ProjectedGAN/Synth/Fusion/498.wav" controls="" preload=""></audio><img src="demo_page/ProjectedGAN/Synth/Fusion/000498.png">
