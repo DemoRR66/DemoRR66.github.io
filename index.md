@@ -72,7 +72,7 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <hr>
 
-* ProjectedStyleGAN2 (VGG)
+* Projected StyleGAN2 (VGG)
 
 <div id="wrap">
     <div>
@@ -100,7 +100,7 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <hr>
 
-* ProjectedStyleGAN2 (SCNN on Loop)
+* Projected StyleGAN2 (SCNN<sub>Loop<sub>)
 
 <div id="wrap">
     <div>
@@ -128,7 +128,7 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <hr>
 
-* ProjectedStyleGAN2 (Fusion)
+* Projected StyleGAN2 (Fusion)
 
 <div id="wrap">
     <div>
@@ -214,7 +214,7 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <hr>
 
-* ProjectedStyleGAN2 (VGG)
+* Projected StyleGAN2 (VGG)
 
 <div id="wrap">
     <div>
@@ -242,7 +242,7 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <hr>
 
-* ProjectedStyleGAN2 (SCNN on Loop)
+* Projected StyleGAN2 (SCNN<sub>Loop<sub>)
 
 <div id="wrap">
     <div>
@@ -270,7 +270,7 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <hr>
 
-* ProjectedStyleGAN2 (Fusion)
+* Projected StyleGAN2 (Fusion)
 
 <div id="wrap">
     <div>
