@@ -100,7 +100,7 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <hr>
 
-* Projected StyleGAN2 (SCNN<sub>Loop</sub> )
+* Projected StyleGAN2 (SCNN<sub>Loop</sub>)
 
 <div id="wrap">
     <div>
@@ -242,7 +242,7 @@ We show the result for the models trained on the large-scale looperman dataset.
 
 <hr>
 
-* Projected StyleGAN2 ( SCNN<sub>Loop</sub> )
+* Projected StyleGAN2 (SCNN<sub>Loop</sub>)
 
 <div id="wrap">
     <div>
